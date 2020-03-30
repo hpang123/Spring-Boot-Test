@@ -7,3 +7,4 @@
 - [How to Split JUnit Tests in a Continuous Integration Environment](https://semaphoreci.com/community/tutorials/how-to-split-junit-tests-in-a-continuous-integration-environment)
 - [Separating Integration Tests from Unit Tests Using Maven Failsafe & JUnit @Category](http://calenlegaspi.blogspot.com/2015/01/separating-integration-tests-from-unit.html)
 - [Spring Boot Test Best Practices](https://pivotal.io/application-modernization-recipes/testing/spring-boot-testing-best-practices)
+- [Spring Data JPA Repository Testing](https://www.javaguides.net/2018/09/spring-data-jpa-repository-testing-using-spring-boot-datajpatest.html)
